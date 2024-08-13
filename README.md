@@ -1,8 +1,24 @@
-# React + Vite
+# TextForm Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The `TextForm` component is a versatile tool for text manipulation, designed with a minimalist and modern aesthetic. It offers functionality for converting text to uppercase, lowercase, title case, and more, with visual feedback through alerts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Convert to Uppercase**: Transform the input text to uppercase.
+- **Convert to Lowercase**: Change the text to lowercase.
+- **Title Case Conversion**: Format text in title case.
+- **Reverse Text**: Reverse the characters in the text.
+- **Remove Extra Spaces**: Eliminate unnecessary spaces.
+- **Copy to Clipboard**: Copy the text to the clipboard.
+- **Clear Text**: Empty the text input field.
+
+## Installation
+
+To use the `TextForm` component in your React application, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
